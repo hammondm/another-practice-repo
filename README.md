@@ -2,5 +2,5 @@
 
 Here's *another* remote addition.
 
-Adding a sentence here!
+Revising a sentence here!
 
